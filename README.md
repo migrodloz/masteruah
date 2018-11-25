@@ -1,7 +1,6 @@
 ## MÁSTER EN BUSINESS Y DATA SCIENCE
-   =================================
 
-###Nombre Alumno: Miguel Rodríguez Lozano.
+***Nombre Alumno: Miguel Rodríguez Lozano***
 
 Compañeros de clase a los que se ha seguido:
 
