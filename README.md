@@ -1,4 +1,15 @@
-# masteruah
-Master Business Intelligence and Data Science
+## MÁSTER EN BUSINESS Y DATA SCIENCE
+   =================================
 
-Comandos de markdown.
+###Nombre Alumno: Miguel Rodríguez Lozano.
+
+Compañeros de clase a los que se ha seguido:
+
+***Compañeros de clase***
+
+| Nombres | GITHUB |
+|---------|--------|
+|  Laura  | Laru24 |
+| Bárbara |blcastro|
+| Carolina| CarolM2|
+
